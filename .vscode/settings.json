@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 21,
+    "workbench.colorTheme": "Monokai",
+    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.fontWeight": "bold"
+}
